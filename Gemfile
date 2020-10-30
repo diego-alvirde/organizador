@@ -24,6 +24,8 @@ gem 'jbuilder', '~> 2.7'
 gem 'hamlit'
 gem 'simple_form'
 gem 'annotate'
+gem 'rails-i18n'
+gem 'i18n-tasks', '~> 0.9.5'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
